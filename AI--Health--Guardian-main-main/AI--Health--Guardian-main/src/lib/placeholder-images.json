@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "user-avatar",
+      "description": "Avatar for the current user",
+      "imageUrl": "https://images.unsplash.com/photo-1598625873873-52f9aefd7d9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3b21hbiUyMHNtaWxpbmd8ZW58MHx8fHwxNzcxNzA0NDk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman smiling"
+    }
+  ]
+}
